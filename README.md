@@ -1,4 +1,4 @@
-# MinIO for GitHub Actions Service Container
+# MinIO for GitHub Actions service containers
 
 ## How to use
 
